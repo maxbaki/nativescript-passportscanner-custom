@@ -47,7 +47,7 @@
     "card.io"
   ],
   "license": "MIT",
-  "main": "passportscan.js",
+  "main": "passportscanner.js",
   "name": "nativescript-passportscanner-custom",
   "nativescript": {
     "platforms": {
