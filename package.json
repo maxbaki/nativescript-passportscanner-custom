@@ -36,7 +36,7 @@
     "url": "https://github.com/maxbaki/nativescript-passportscanner-custom/issues"
   },
   "dependencies": {},
-  "description": "Think Digital card.io plugin for Nativescript",
+  "description": "Passportscan plugin for Nativescript",
   "devDependencies": {
     "tns-core-modules": "^1.5.1",
     "typescript": "^1.7.5"
@@ -47,7 +47,7 @@
     "card.io"
   ],
   "license": "MIT",
-  "main": "card-io.js",
+  "main": "passportscan.js",
   "name": "nativescript-passportscanner-custom",
   "nativescript": {
     "platforms": {
