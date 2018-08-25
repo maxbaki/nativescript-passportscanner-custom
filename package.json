@@ -1,12 +1,12 @@
 {
   "_args": [
     [
-      "nativescript-passportscanner-custom@1.0.4",
+      "nativescript-passportscanner-custom@1.0.5",
       "/Users/Max/Documents/NativeScript/UTU.MobileApp_Master"
     ]
   ],
-  "_from": "nativescript-passportscanner-custom@1.0.4",
-  "_id": "nativescript-passportscanner-custom@1.0.4",
+  "_from": "nativescript-passportscanner-custom@1.0.5",
+  "_id": "nativescript-passportscanner-custom@1.0.5",
   "_inBundle": false,
   "_integrity": "sha512-WlYmMjwuk9cmx2Xqaj3MwG6nwkZplNAooUMDxFW5u7vOK07Lpz6XdBRij+mv6zHFK9/BZVqZLCMc4J1DWaUFQA==",
   "_location": "/nativescript-passportscanner-custom",
@@ -14,18 +14,18 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "nativescript-passportscanner-custom@1.0.4",
+    "raw": "nativescript-passportscanner-custom@1.0.5",
     "name": "nativescript-passportscanner-custom",
     "escapedName": "nativescript-passportscanner-custom",
-    "rawSpec": "1.0.4",
+    "rawSpec": "1.0.5",
     "saveSpec": null,
-    "fetchSpec": "1.0.4"
+    "fetchSpec": "1.0.5"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/nativescript-passportscanner-custom/-/nativescript-passportscanner-custom-1.0.4.tgz",
-  "_spec": "1.0.4",
+  "_resolved": "https://registry.npmjs.org/nativescript-passportscanner-custom/-/nativescript-passportscanner-custom-1.0.5.tgz",
+  "_spec": "1.0.5",
   "_where": "/Users/Max/Documents/NativeScript/UTU.MobileApp_Master",
   "author": {
     "name": "Craig Haworth",
@@ -58,5 +58,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.4"
+  "version": "1.0.5"
 }
